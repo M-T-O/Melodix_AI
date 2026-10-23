@@ -1,0 +1,7 @@
+{
+  "name": "Harmonia - Akıllı Müzik Laboratuvarı & DAW",
+  "description": "Hem amatörler hem de müzik entelektüelleri için nota düzenleme, gelişmiş ses işleme ve yapay zeka destekli melodi stüdyosu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
